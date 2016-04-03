@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en-US" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en-US" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-US" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-US" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<title>Generic WordPress Multisite Root @ Bellevue College</title>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+			<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="http://shoes.bellevuecollege.edu/wpm/wp-content/themes/mayflower/img/bellevue.ico" />
+	<!--[if IE]>
+		<link rel="shortcut icon" href="http://shoes.bellevuecollege.edu/wpm/wp-content/themes/mayflower/img/bellevue.ico" />
+	<![endif]-->
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+	<link rel="alternate" type="application/rss+xml" title="Generic WordPress Multisite Root &raquo; Test Gravity Forms Comments Feed" href="http://shoes.bellevuecollege.edu/wpm/test-gravity-forms/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/shoes.bellevuecollege.edu\/wpm\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='parent-style-css'  href='http://shoes.bellevuecollege.edu/wpm/wp-content/themes/mayflower/style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='globals-css'  href='//shoes.bellevuecollege.edu/g/3/c/g.css?ver=3.0.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='globals-print-css'  href='//shoes.bellevuecollege.edu/g/3/c/p.css?ver=3.0.2' type='text/css' media='print' />
+<link rel='stylesheet' id='mayflower-css'  href='http://shoes.bellevuecollege.edu/wpm/wp-content/themes/mayflower-homepage/style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='upw_theme_standard-css'  href='http://shoes.bellevuecollege.edu/wpm/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=4.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://shoes.bellevuecollege.edu/wpm/wp-content/plugins/gravityforms-external-data-fields/css/style.css?ver=4.4.2'></script>
+<script type='text/javascript' src='http://shoes.bellevuecollege.edu/wpm/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://shoes.bellevuecollege.edu/wpm/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='//shoes.bellevuecollege.edu/g/3/j/ghead.js'></script>
+<script type='text/javascript' src='//shoes.bellevuecollege.edu/g/3/j/respond.js?ver=3.0.2'></script>
+<link rel='https://api.w.org/' href='http://shoes.bellevuecollege.edu/wpm/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://shoes.bellevuecollege.edu/wpm/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://shoes.bellevuecollege.edu/wpm/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="canonical" href="http://shoes.bellevuecollege.edu/wpm/" />
+<link rel='shortlink' href='http://shoes.bellevuecollege.edu/wpm/' />
+  <link rel="alternate" type="application/rss+xml"
+        title="Generic WordPress Multisite Root  &raquo;  Feed"
+        href="http://shoes.bellevuecollege.edu/wpm/feed/ " />
+  <script>
+/* New analytics.js tracking */
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+// Setup Tracking //
+ga('create', 'UA-3966899-1', 'bellevuecollege.edu'); //Main
+ga('create','UA-17566683-1','bellevuecollege.edu',{'name':'multisiteTracker'}); //Multisite Tracking Code
+ga('create','UA-16482970-1','bellevuecollege.edu',{'name':'ceTracker'}); //CE Tracking Code
+
+// Add Tracking Featured //
+ga('require', 'linkid', 'linkid.js'); //Enhanced Link Attribution
+ga('require', 'displayfeatures'); //Grab DoubleClick Cookies- Privacy Policy Change Required
+
+// Cross Domain Tracking for CampusCE //
+ga('require','linker');
+ga('linker:autoLink',['campusce.net']);
+
+// Send Tracking Info //
+ga('send', 'pageview');
+
+ga('multisiteTracker.send','pageview');
+
+ga('ceTracker.send','pageview');
+
+</script><!-- parentid= 0--></head>
+
+<body class="home page page-id-13 page-template-default nav-home">
+
+	<section id="top-wrap" class="branded" role="banner">
+	<div class="container logobar border" id="top">
+		<div class="row content-padding">
+			<div class="col-sm-7 col-md-8 col-lg-9">
+	        <a href="http://www.bellevuecollege.edu/" title="Bellevue College" id="bc-logo"><img src="/g/3/i/bellevuecollege-b.png" class="img-responsive" alt="Bellevue College (with link to home page)" /></a>
+				
+			</div><!-- .col-md-8 -->
+
+			<div class="col-sm-5 col-md-4 col-lg-3">
+	      <ul id="college-top-actions">
+	        <li class="top-actions">
+	        	<a id="branded-top-actions-register" href="//www.bellevuecollege.edu/registration/register/" class="top-actions">Register</a>
+	      	</li>
+	        <li class="top-actions">
+	        	<a id="branded-top-actions-services" href="http://www.bellevuecollege.edu/services/" class="top-actions">Online Services</a>
+	      	</li>
+					<li class="top-actions">
+						<a id="branded-top-actions-canvas" href="http://www.bellevuecollege.edu/canvas/" class="top-actions">Canvas</a>
+					</li>
+	      </ul>
+			</div>
+			<div class="clearfix visible-xs-block"></div>
+			<div id="mob-nav" class="col-sm-5 col-md-4 col-lg-3">
+				<div class="row">
+					<div id="main-nav-link" class="col-xs-4">
+						<a href="#college-navbar" title="Navigation Menu" class="btn btn-default btn-block">Menu</a>
+					</div><!-- main-nav-link -->
+					<div class="col-xs-8 col-sm-12">
+						<form action="//www.bellevuecollege.edu/search/" method="get" class="form-search">
+							<div class="input-group pull-right" role="search">
+						    <input type="text" value="" name="txtQuery" class="form-control" id="college-search-field">
+						    <label class="sr-only" for="college-search-field">Search</label>
+						    <span class="input-group-btn">
+									<button type="submit" class="btn btn-default" name="search" id="college-search-submit">Search</button>
+						    </span>
+							</div><!-- input-group -->
+						</form>
+					</div>
+				</div><!-- row -->
+			</div><!-- mob-nav -->
+		</div><!-- row -->
+	</div><!-- .container .logobar -->
+</section><!-- #top-wrap .branded -->
+
+<div class="flexwrap">
+			<div id="main-wrap" class="globals-branded bchome">
+				<div id="main" class="container no-padding">
+		
+	<div class="row">
+		<div class="col-md-12">
+
+			
+<div class="row">
+			<div id class="col-xs-7 col-sm-8 col-md-3 col-xl-2 resources-menu">
+			<section class="col-xs-12 box-shadow"><h2>Menu for</h2><div class="menu-menu-10-container"><ul id="menu-menu-10" class="menu"><li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://shoes.bellevuecollege.edu/wpm/sample-page/">Sample Page</a></li>
+<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://shoes.bellevuecollege.edu/wpm/sample-page/">Sample Page</a></li>
+<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://shoes.bellevuecollege.edu/wpm/test-broken-link/">TEst broken link</a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13 current_page_item menu-item-99 active "><a href="http://shoes.bellevuecollege.edu/wpm/">Test Gravity Forms</a></li>
+<li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-clubs menu-item-184"><a href="http://shoes.bellevuecollege.edu/wpm/blog/clubs/supermarios-bros/">SuperMarios Bros</a></li>
+</ul></div></section>		<section class="col-xs-12 box-shadow">		<h2>Recent Posts</h2>		<ul>
+					<li>
+				<a href="http://shoes.bellevuecollege.edu/wpm/blog/2015/11/25/attachiment/">attachiment</a>
+						</li>
+					<li>
+				<a href="http://shoes.bellevuecollege.edu/wpm/blog/2015/11/25/test-3/">test</a>
+						</li>
+					<li>
+				<a href="http://shoes.bellevuecollege.edu/wpm/blog/2015/11/25/standard-format/">standard format -> Now it&#8217;s video</a>
+						</li>
+					<li>
+				<a href="http://shoes.bellevuecollege.edu/wpm/blog/2015/11/25/video-format/">Video format</a>
+						</li>
+					<li>
+				<a href="http://shoes.bellevuecollege.edu/wpm/blog/2015/11/25/test-2/">test</a>
+						</li>
+				</ul>
+		</section>				</div>
+		<div class="col-xs-5 col-sm-4" id="mobilelinks">
+		<section>
+			<a class="btn btn-info btn-block" href="//www.bellevuecollege.edu/location/maps/" class="btn btn-info">Maps</a>
+			<a class="btn btn-info btn-block" href="//www.bellevuecollege.edu/location/directions/" class="btn btn-info">Directions</a>
+			<a class="btn btn-info btn-block" href="//www.bellevuecollege.edu/contacts/" class="btn btn-info">Contact Us</a>
+		</section>
+	</div>
+	<div class="col-xs-12 col-md-9 col-xl-10">
+		<section id="homeslider">
+			
+					<div id="carousel-featured-full" class="carousel slide full">
+
+						<ol class="carousel-indicators">
+													<li data-target="#carousel-featured-full" data-slide-to="0"></li>
+
+												<li data-target="#carousel-featured-full" data-slide-to="1"></li>
+
+												<li data-target="#carousel-featured-full" data-slide-to="2"></li>
+
+												<li data-target="#carousel-featured-full" data-slide-to="3"></li>
+
+												<li data-target="#carousel-featured-full" data-slide-to="4"></li>
+
+												</ol>
+
+						<div class="carousel-inner">
+							
+							<div class="item active">
+								
+
+										<a href="#" title="Winged Prussient Marsupials (WPM)."><img src="http://shoes.bellevuecollege.edu/wpm/wp-content/uploads/2014/08/Kunkori-1200x500.jpg" class="img-responsive wp-post-image img-responsive " alt="Sugar Glider" srcset="http://shoes.bellevuecollege.edu/wpm/wp-content/uploads/2014/08/Kunkori-300x125.jpg 300w, http://shoes.bellevuecollege.edu/wpm/wp-content/uploads/2014/08/Kunkori-1200x500.jpg 1200w, http://shoes.bellevuecollege.edu/wpm/wp-content/uploads/2014/08/Kunkori-900x375.jpg 900w" sizes="(max-width: 1170px) 100vw, 1170px" /></a>
+
+
+									
+							
+
+									<div class="carousel-caption">
+										
+												<h2>
+													<a href="#" title="Winged Prussient Marsupials (WPM).">Winged Prussient Marsupials (WPM).</a>
+												</h2>
+
+																						
+																					<p>Or maybe Wombats Pursuing Mailmen.</p>
+										
+									</div><!-- carousel-caption -->
+
+							
+							</div><!-- item active -->
+
+							
+														<div class="item">
+								
+
+										<a href="#" title="Tortoises are not conducive to appropriate acronyms."><img src="http://shoes.bellevuecollege.edu/wpm/wp-content/uploads/2014/08/A._gigantea_Aldabra_Giant_Tortoise-1200x500.jpg" class="img-responsive wp-post-image img-responsive " alt="A._gigantea_Aldabra_Giant_Tortoise" srcset="http://shoes.bellevuecollege.edu/wpm/wp-content/uploads/2014/08/A._gigantea_Aldabra_Giant_Tortoise-300x125.jpg 300w, http://shoes.bellevuecollege.edu/wpm/wp-content/uploads/2014/08/A._gigantea_Aldabra_Giant_Tortoise-1200x500.jpg 1200w, http://shoes.bellevuecollege.edu/wpm/wp-content/uploads/2014/08/A._gigantea_Aldabra_Giant_Tortoise-900x375.jpg 900w" sizes="(max-width: 1170px) 100vw, 1170px" /></a>
+
+									
+							
+
+									<div class="carousel-caption">
+										
+												<h2>
+													<a href="#" title="Tortoises are not conducive to appropriate acronyms.">Tortoises are not conducive to appropriate acronyms.</a>
+												</h2>
+
+																						
+																					<p>I tried&#8230;</p>
+										
+									</div><!-- carousel-caption -->
+
+							
+							</div><!-- item -->
+
+														<div class="item">
+								
+								<a href="http://shoes.bellevuecollege.edu/wpm/blog/slider/whos-your-daddy/"><img src="http://shoes.bellevuecollege.edu/wpm/wp-content/uploads/2015/07/Darth-Vader-BBQ-illustration-by-Kim-Herbst-580x488.jpg" class="img-responsive wp-post-image img-responsive " alt="Darth-Vader-BBQ-illustration-by-Kim-Herbst" /></a>
+								
+							
+
+									<div class="carousel-caption">
+																							<h2><a href="http://shoes.bellevuecollege.edu/wpm/blog/slider/whos-your-daddy/">Who&#8217;s your daddy?</a></h2>
+
+																					
+																															
+									</div><!-- carousel-caption -->
+
+							
+							</div><!-- item -->
+
+														<div class="item">
+								
+								<a href="http://shoes.bellevuecollege.edu/wpm/blog/slider/hail-caesar/"><img src="http://shoes.bellevuecollege.edu/wpm/wp-content/uploads/2015/07/caesar.jpg" class="img-responsive wp-post-image img-responsive " alt="caesar" /></a>
+								
+							
+
+									<div class="carousel-caption">
+																							<h2><a href="http://shoes.bellevuecollege.edu/wpm/blog/slider/hail-caesar/">Hail Caesar!</a></h2>
+
+																					
+																					<p>Beware the Ides of March</p>
+										
+									</div><!-- carousel-caption -->
+
+							
+							</div><!-- item -->
+
+														<div class="item">
+								
+								<a href="http://shoes.bellevuecollege.edu/wpm/blog/slider/kanye-trump-in-2020/"><img src="http://shoes.bellevuecollege.edu/wpm/wp-content/uploads/2015/11/kanye-trump-640x488.jpg" class="img-responsive wp-post-image img-responsive " alt="kanye trump" /></a>
+								
+							
+
+									<div class="carousel-caption">
+																							<h2><a href="http://shoes.bellevuecollege.edu/wpm/blog/slider/kanye-trump-in-2020/">Kanye Trump in 2020</a></h2>
+
+																					
+																															
+									</div><!-- carousel-caption -->
+
+							
+							</div><!-- item -->
+
+													</div><!-- carousel-inner -->
+
+														<a class="carousel-control left" href="#carousel-featured-full" data-slide="prev">&lsaquo;</a>
+								<a class="carousel-control right" href="#carousel-featured-full" data-slide="next">&rsaquo;</a>
+						
+					</div><!-- #carousel-featured-full -->
+
+
+		
+		</section><!--#homeslider-->
+	</div><!--#content .row-->
+</div>
+<div class="row row-padding">
+	<div class="col-md-8 col-lg-9">
+		<section class="col-md-6 col-no-padding" id="home-news">
+			<header class="content-padding">
+				<h2>News &amp; Announcements</h2>
+			</header>
+			<div class="content-padding">
+				<ul>
+															<li><a class="more" href="//www.bellevuecollege.edu/news/"><strong>More news...</strong><span class="arrow"></span></a></li>
+										</ul>
+			</div><!--.content-padding-->
+		</section>
+		<section class="col-md-6 col-no-padding"  id="home-events">
+			<header class="content-padding">
+				<h2>Events</h2>
+			</header>
+			<div class="content-padding">
+				<ul>
+										<!-- begin event listing -->
+					<li><a href="http://shoes.bellevuecollege.edu/wpm/blog/2013/10/30/hello-world/" title="Hello world!">Hello world!</a></li>
+					<!-- end event listing -->
+										<!-- begin event listing -->
+					<li><a href="http://shoes.bellevuecollege.edu/wpm/blog/2014/08/20/830-cool-things/" title="8/30 Cool Things">8/30 Cool Things</a></li>
+					<!-- end event listing -->
+										<!-- begin event listing -->
+					<li><a href="http://shoes.bellevuecollege.edu/wpm/blog/2014/08/20/830-other-cool-things/" title="8/30 Other Cool Things">8/30 Other Cool Things</a></li>
+					<!-- end event listing -->
+										<!-- begin event listing -->
+					<li><a href="http://shoes.bellevuecollege.edu/wpm/blog/2015/06/01/new-post-612015/" title="New Post &#8211; 6/1/2015">New Post &#8211; 6/1/2015</a></li>
+					<!-- end event listing -->
+										<!-- begin event listing -->
+					<li><a href="http://shoes.bellevuecollege.edu/wpm/blog/2015/09/15/test-from-tablet/" title="Test from Tablet">Test from Tablet</a></li>
+					<!-- end event listing -->
+					
+					<li><a class="more" href="//www.bellevuecollege.edu/events"><strong>More events...</strong></a></li>
+					<li><a id="calendar" href="//www.bellevuecollege.edu/enrollment/calendar/">Academic Calendar<strong></strong></a> </li>
+				</ul>
+			</div><!--.content-padding-->
+		</section><!--#home-events-->
+	</div>
+	<div class="col-md-4 col-lg-3">
+		<p id="apply" >
+			<p id="apply"><a href="//www.bellevuecollege.edu/admissions/?utm_source=bchomepage&amp;utm_medium=button&amp;utm_campaign=applybtn" class="btn btn-success btn-block"><strong>Apply</strong>for admission</a></p>		</p>
+		                    <p id="homead">
+                        <a href="#" title="Annoying Ad"><img src="http://shoes.bellevuecollege.edu/wpm/wp-content/uploads/2014/08/giphy-300x200.gif" class="box-shadow img-responsive wp-post-image img-responsive " alt="giphy" /></a>
+                    </p>
+			
+			</div><!--#home-sidelinks-->
+</div><!-- .content-row -->
+
+
+			</div><!-- row -->
+		</div><!-- col-md-12 -->
+	</div><!-- #main .container -->
+</div><!-- #main-wrap -->
+
+<div id="main-nav-wrap" class="branded">
+	<div class="container">
+        <nav id="college-navbar" class="navbar navbar-default" role="navigation">
+                <ul id="main-menu" class="nav navbar-nav">
+                    <li id="nav-top"><a href="#top">Top ^</a></li>
+                    <li id="nav-home"><a href="//www.bellevuecollege.edu/">Home</a></li>
+                    <li id="nav-classes"><a href="//www.bellevuecollege.edu/classes/">Classes</a></li>
+                    <li id="nav-programs"><a href="//www.bellevuecollege.edu/programs/">Programs of Study</a></li>
+                    <li id="nav-enrollment"><a href="//www.bellevuecollege.edu/enrollment">Enrollment</a></li>
+                    <li id="nav-services"><a href="//www.bellevuecollege.edu/resources/">Services</a></li>
+                    <li id="nav-campuslife"><a href="//www.bellevuecollege.edu/campuslife">Campus Life</a></li>
+                    <li id="nav-about"><a href="//www.bellevuecollege.edu/about/">About Us</a></li>
+                </ul><!-- #main-menu -->
+        </nav><!-- #main-nav .navbar -->
+	</div><!-- container -->
+</div><!-- main-nav-wrap -->
+</div> <!-- .flexwrap -->
+
+<footer id="bigfoot">
+    <div class="container inner">
+        <h2 class="hide-text">Footer Navigation</h2>
+        <div class="row">
+            <div class="col-md-3 col-sm-6 ">
+                <div class="content-padding">
+                    <div id="bellevueaddress" class="vcard">
+                        <h3 class="url fn"><a href="//www.bellevuecollege.edu/" title="Bellevue College home page">Bellevue College</a></h3>
+                        <div class="adr">
+                            <span class="street-address">3000 Landerholm Circle SE</span>
+                            <span class="locality">Bellevue</span>,
+                            <span class="region">WA</span>
+                            <span class="postal-code">98007-6406</span>
+                        </div>
+                    </div><!--#bellevueaddress -->
+
+                    <div class="social-media clearfix">
+                      <h3>Connect with us</h3>
+                      <ul id="branded-footer-social-list">
+                            <li><a href="http://facebook.com/bellevuecollege/"><img src="/g/3/i/facebook.png" alt="Facebook" /></a></li>
+                            <li><a href="http://twitter.com/bellevuecollege/"><img src="/g/3/i/twitter.png"  alt="Twitter" /></a></li>
+                            <li><a href="http://www.youtube.com/bellevuecollege"><img src="/g/3/i/youtube.png"  alt="YouTube" /></a></li>
+                            <li><a href="https://instagram.com/bellevuecollege/"><img src="/g/3/i/instagram.png" alt="Instagram" /></a></li>
+                            <li><a href="https://www.linkedin.com/groups?gid=159925"><img src="/g/3/i/linkedin.png" alt="LinkedIn" /></a></li>
+                            <li><a href="//www.bellevuecollege.edu/social/" class="more">More social...</a></li>
+                       </ul>
+                    </div><!-- social-media -->
+                </div><!--.content-padding-->
+            </div><!-- span4 -->
+
+            <div class="col-md-3 col-sm-6">
+              <div class="content-padding">
+              		<h3>General Info</h3>
+                  <ul id="branded-footer-general-list">
+                      <li><a href="//www.bellevuecollege.edu/contacts/">Contact Us</a></li>
+                      <li><a href="//www.bellevuecollege.edu/location/maps/">Maps</a> &amp; <a href="//www.bellevuecollege.edu/location/directions/">Directions</a></li>
+                      <li><a href="//www.bellevuecollege.edu/news/">News</a> &amp; <a href="//www.bellevuecollege.edu/events/"> Events</a></li>
+                      <li><a href="//www.bellevuecollege.edu/jobs/">Jobs</a></li>
+                      <li><a href="https://www.bellevuecollege.edu/foundation/donate/">Donate</a></li>
+                  </ul>
+               </div><!--.content-padding-->
+            </div><!-- grid2 -->
+            <div class="clearfix visible-sm-block"></div>
+            <div class="col-md-3 col-sm-6 ">
+                <div class="content-padding">
+                    <h3>Menus for</h3>
+                    <ul id="branded-footer-menus-list">
+                        <li><a href="//www.bellevuecollege.edu/students/">Students</a></li>
+                        <li><a href="//www.bellevuecollege.edu/future/">Future Students</a></li>
+                        <li><a href="//www.bellevuecollege.edu/employees/">Faculty &amp; Staff</a></li>
+                        <li><a href="//www.bellevuecollege.edu/businesses/">Businesses</a></li>
+                        <li><a href="//www.bellevuecollege.edu/visitors/">Visitors &amp; Community</a></li>
+                    </ul>
+                </div><!--.content-padding-->
+            </div>
+
+            <div class="col-md-3 col-sm-6">
+                 <div class="content-padding">
+                    <h3>Student links</h3>
+                    <ul id="branded-footer-student-list">
+                        <li><a href="http://email.bellevuecollege.edu/">E-mail</a></li>
+                        <li><a href="http://mybcc.net/"><i>My</i>BC</a></li>
+                        <li><a href="//www.bellevuecollege.edu/canvas/">Canvas</a></li>
+                        <li><a href="//www.bellevuecollege.edu/registration/register/">Registration</a></li>
+                        <li><a href="//www.bellevuecollege.edu/records/">Records &amp; Grades</a></li>
+                    </ul>
+                </div><!--.content-padding-->
+            </div>
+        </div><!-- row -->
+	</div><!--.container .inner -->
+</footer>
+<div id="front-page-legal" class="container inner">
+	<div class="menu"><ul><li class="page_item page-item-2 page_item_has_children"><a href="http://shoes.bellevuecollege.edu/wpm/sample-page/">Sample Page</a></li><li class="page_item page-item-67"><a href="http://shoes.bellevuecollege.edu/wpm/test-broken-link/">TEst broken link</a></li><li class="page_item page-item-13 current_page_item"><a href="http://shoes.bellevuecollege.edu/wpm/">Test Gravity Forms</a></li></ul></div>
+</div>
+
+<div class="container" role="contentinfo">
+    <ul id="legalbar">
+        <li id="legal-footer-accessibility" class="first"><a href="http://www.bellevuecollege.edu/accessibility/">Accessibility</a></li>
+        <li id="legal-footer-alerts"><a href="http://www.bellevuecollege.edu/alerts/">Emergency info</a></li>
+        <li id="legal-footer-privacy"><a href="http://www.bellevuecollege.edu/website/privacy/">Privacy notice</a></li>
+        <li id="legal-footer-disclosure"><a href="http://www.bellevuecollege.edu/legal/publicdisclosure/">Public disclosure</a></li>
+        <li id="legal-footer-website"><a href="http://www.bellevuecollege.edu/website/">Website info</a></li>
+        <li id="legal-footer-equal"><a href="http://www.bellevuecollege.edu/equal/">We are an equal opportunity institution</a></li>
+    </ul><!-- legalbar -->
+</div><!-- container -->
+<script type='text/javascript' src='http://shoes.bellevuecollege.edu/wpm/wp-content/plugins/gravityforms-external-data-fields/js/gravityforms-disable-fields.js?ver=4.4.2'></script>
+<script type='text/javascript' src='//shoes.bellevuecollege.edu/g/3/j/bootstrap.min.js?ver=3.0.2'></script>
+<script type='text/javascript' src='//shoes.bellevuecollege.edu/g/3/j/g.js?ver=3.0.2'></script>
+<script type='text/javascript' src='http://shoes.bellevuecollege.edu/wpm/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+
+<!-- Mayflower Homepage version 1.1  -->
+
+</body>
+</html>
