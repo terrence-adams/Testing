@@ -1,0 +1,594 @@
+{
+  "Abstract": "",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Tree_(disambiguation)",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "",
+  "Heading": "Tree",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": "",
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/Tree",
+      "Icon": {
+        "Height": "",
+        "URL": "https://duckduckgo.com/i/74d776ca.jpg",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/Tree\">Tree</a>A perennial plant with an elongated stem, or trunk, supporting branches and leaves in most species.",
+      "Text": "Tree A perennial plant with an elongated stem, or trunk, supporting branches and leaves in most species."
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/Trie",
+      "Icon": {
+        "Height": "",
+        "URL": "https://duckduckgo.com/i/cb605724.png",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/Trie\">Digital tree</a>A kind of search tree-an ordered tree data structure that is used to store a dynamic set or...",
+      "Text": "Digital tree A kind of search tree-an ordered tree data structure that is used to store a dynamic set or..."
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/Tree_(data_structure)",
+      "Icon": {
+        "Height": "",
+        "URL": "https://duckduckgo.com/i/8b538c40.png",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/Tree_(data_structure)\">Tree (data structure)</a>A widely used abstract data type-or data structure implementing this ADT\u2014that simulates a...",
+      "Text": "Tree (data structure) A widely used abstract data type-or data structure implementing this ADT\u2014that simulates a..."
+    },
+    {
+      "Name": "Information representation",
+      "Topics": [
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_structure",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/4ad2f20b.png",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_structure\">Tree structure</a> A way of representing the hierarchical nature of a structure in a graphical form.",
+          "Text": "Tree structure A way of representing the hierarchical nature of a structure in a graphical form."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Decision_tree",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/aca5737e.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Decision_tree\">Decision tree</a>A decision support tool that uses a tree-like graph or model of decisions and their possible...",
+          "Text": "Decision tree A decision support tool that uses a tree-like graph or model of decisions and their possible..."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Parse_tree",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/f5a856c6.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Parse_tree\">Parse tree</a>An ordered, rooted tree that represents the syntactic structure of a string according to some...",
+          "Text": "Parse tree An ordered, rooted tree that represents the syntactic structure of a string according to some..."
+        }
+      ]
+    },
+    {
+      "Name": "Mathematics",
+      "Topics": [
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_(descriptive_set_theory)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_(descriptive_set_theory)\">Tree (descriptive set theory)</a>A collection of finite sequences of elements of X such that every prefix of a sequence in the...",
+          "Text": "Tree (descriptive set theory) A collection of finite sequences of elements of X such that every prefix of a sequence in the..."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_(graph_theory)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/846a4d1a.png",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_(graph_theory)\">Tree (graph theory)</a>An undirected graph in which any two vertices are connected by exactly one path.",
+          "Text": "Tree (graph theory) An undirected graph in which any two vertices are connected by exactly one path."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_(set_theory)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/7311dea4.png",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_(set_theory)\">Tree (set theory)</a> A partially ordered set such that for each t \u2208 T, the set {s \u2208 T : s.",
+          "Text": "Tree (set theory) A partially ordered set such that for each t \u2208 T, the set {s \u2208 T : s."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_diagram_(probability_theory)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/43b66415.png",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_diagram_(probability_theory)\">Tree diagram (probability theory)</a> In probability theory, a tree diagram may be used to represent a probability space.",
+          "Text": "Tree diagram (probability theory) In probability theory, a tree diagram may be used to represent a probability space."
+        }
+      ]
+    },
+    {
+      "Name": "Computing",
+      "Topics": [
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_(automata_theory)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_(automata_theory)\">Tree (automata theory)</a> A particular way of representing a mathematical tree as sequences of natural numbers.",
+          "Text": "Tree (automata theory) A particular way of representing a mathematical tree as sequences of natural numbers."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_(Unix)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_(Unix)\">Tree (Unix)</a> A recursive directory listing program that produces a depth-indented listing of files.",
+          "Text": "Tree (Unix) A recursive directory listing program that produces a depth-indented listing of files."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_network",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_network\">Tree network</a>A hybrid network topology in which star networks are interconnected via bus networks.",
+          "Text": "Tree network A hybrid network topology in which star networks are interconnected via bus networks."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Trie",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/cb605724.png",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Trie\">Digital tree</a>A kind of search tree-an ordered tree data structure that is used to store a dynamic set or...",
+          "Text": "Digital tree A kind of search tree-an ordered tree data structure that is used to store a dynamic set or..."
+        }
+      ]
+    },
+    {
+      "Name": "In print",
+      "Topics": [
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_(novel)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/ab412100.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_(novel)\">Tree (novel)</a>A 1978 historical novel by Filipino National Artist F. Sionil Jos\u00e9.",
+          "Text": "Tree (novel) A 1978 historical novel by Filipino National Artist F. Sionil Jos\u00e9."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Trees_(poem)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/fd9656e7.png",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Trees_(poem)\">\"Trees\" (poem)</a>A lyric poem by American poet Joyce Kilmer.",
+          "Text": "\"Trees\" (poem) A lyric poem by American poet Joyce Kilmer."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/The_Trees_(novel)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/0a808904.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/The_Trees_(novel)\">The Trees (novel)</a>The Trees, the first novel of Conrad Richter's trilogy The Awakening Land, is set in the...",
+          "Text": "The Trees (novel) The Trees, the first novel of Conrad Richter's trilogy The Awakening Land, is set in the..."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/The_Tree_(book)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/3275298f.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/The_Tree_(book)\">The Tree (book)</a>An autobiographical book by John Fowles.",
+          "Text": "The Tree (book) An autobiographical book by John Fowles."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/The_Tree_(play)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/The_Tree_(play)\">The Tree (play)</a> A New Zealand play by Stella Jones that premiered in Bristol, England in 1957.",
+          "Text": "The Tree (play) A New Zealand play by Stella Jones that premiered in Bristol, England in 1957."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/The_Tree_(short_story)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/fce34f3d.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/The_Tree_(short_story)\">\"The Tree\" (short story)</a>A short story by American horror fiction writer H. P. Lovecraft, written in 1920 and first...",
+          "Text": "\"The Tree\" (short story) A short story by American horror fiction writer H. P. Lovecraft, written in 1920 and first..."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Ms._Tree",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/fcc97cfa.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Ms._Tree\">Ms. Tree</a> Ms. Tree was a comic book series and character co-created by writer Max Allan Collins and the...",
+          "Text": "Ms. Tree Ms. Tree was a comic book series and character co-created by writer Max Allan Collins and the..."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Trees_(comics)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Trees_(comics)\">Trees (comics)</a>A science fiction comic book series by Warren Ellis and Jason Howard, published by American...",
+          "Text": "Trees (comics) A science fiction comic book series by Warren Ellis and Jason Howard, published by American..."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Trends_(journals)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/9fb26751.gif",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Trends_(journals)\">Trends in Ecology and Evolution</a> A series of scientific journals owned by Elsevier that publish review articles in a range of...",
+          "Text": "Trends in Ecology and Evolution A series of scientific journals owned by Elsevier that publish review articles in a range of..."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Our_Father_Who_Art_in_the_Tree",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Our_Father_Who_Art_in_the_Tree\">Our Father Who Art in the Tree</a> A 2002 debut novel by Australian writer Judy Pascoe, written from the perspective of...",
+          "Text": "Our Father Who Art in the Tree A 2002 debut novel by Australian writer Judy Pascoe, written from the perspective of..."
+        }
+      ]
+    },
+    {
+      "Name": "Films",
+      "Topics": [
+        {
+          "FirstURL": "https://duckduckgo.com/The_Tree_(1969_film)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/The_Tree_(1969_film)\">The Tree (1969 film)</a>A 1969 American film that was written, produced, and directed, by Robert Guenette.",
+          "Text": "The Tree (1969 film) A 1969 American film that was written, produced, and directed, by Robert Guenette."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/The_Tree_(1993_film)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/The_Tree_(1993_film)\">The Tree (1993 film)</a>A 1993 short film that Todd Field created while a fellow at the AFI Conservatory.",
+          "Text": "The Tree (1993 film) A 1993 short film that Todd Field created while a fellow at the AFI Conservatory."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/The_Tree_(2001_film)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/The_Tree_(2001_film)\">The Tree (2001 film)</a>A 2001 Singaporean supernatural-mystery drama film directed by Daisy Chan, starring Zoe Tay...",
+          "Text": "The Tree (2001 film) A 2001 Singaporean supernatural-mystery drama film directed by Daisy Chan, starring Zoe Tay..."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/The_Tree_(2010_film)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/e142c01a.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/The_Tree_(2010_film)\">The Tree (2010 film)</a>A French-Australian 2010 film co-produced between Australia and France.",
+          "Text": "The Tree (2010 film) A French-Australian 2010 film co-produced between Australia and France."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/The_Tree_(2014_film)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/The_Tree_(2014_film)\">The Tree (2014 film)</a>A 2014 Slovenian drama film written and directed by Sonja Prosenc.",
+          "Text": "The Tree (2014 film) A 2014 Slovenian drama film written and directed by Sonja Prosenc."
+        }
+      ]
+    },
+    {
+      "Name": "Music",
+      "Topics": [
+        {
+          "FirstURL": "https://duckduckgo.com/Trees_(folk_band)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Trees_(folk_band)\">Trees (folk band)</a>An English folk rock band that existed between 1970 and 1973.",
+          "Text": "Trees (folk band) An English folk rock band that existed between 1970 and 1973."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Trees_(American_band)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Trees_(American_band)\">Trees (American band)</a>An American new wave one-man band, fronted by Dane Conover, from San Diego, California.",
+          "Text": "Trees (American band) An American new wave one-man band, fronted by Dane Conover, from San Diego, California."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_(Gaelic_Storm_album)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/c2fd0a19.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_(Gaelic_Storm_album)\">Tree (Gaelic Storm album)</a> A 2001 album by Gaelic Storm.",
+          "Text": "Tree (Gaelic Storm album) A 2001 album by Gaelic Storm."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_(Johnny_Duhan_album)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/4c4a8795.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_(Johnny_Duhan_album)\">Tree (Johnny Duhan album)</a> An album by Irish folk singer Johnny Duhan.",
+          "Text": "Tree (Johnny Duhan album) An album by Irish folk singer Johnny Duhan."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_(TVXQ_album)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_(TVXQ_album)\">Tree (TVXQ album)</a>The seventh Japanese studio album by South Korean pop duo Tohoshinki, released by Avex Trax on...",
+          "Text": "Tree (TVXQ album) The seventh Japanese studio album by South Korean pop duo Tohoshinki, released by Avex Trax on..."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_(Sekai_no_Owari_album)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_(Sekai_no_Owari_album)\">Tree (Sekai no Owari album)</a>The second studio album by Japanese rock band Sekai no Owari. It was released on January 14, 2015.",
+          "Text": "Tree (Sekai no Owari album) The second studio album by Japanese rock band Sekai no Owari. It was released on January 14, 2015."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/The_Trees_(Rush_song)",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/742d7327.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/The_Trees_(Rush_song)\">\"The Trees\" (Rush song)</a>A song by Canadian rock band Rush, from their 1978 album Hemispheres.",
+          "Text": "\"The Trees\" (Rush song) A song by Canadian rock band Rush, from their 1978 album Hemispheres."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/?q=Sunrise%2FThe%20Trees",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/c4793632.jpg",
+            "Width": ""
+          },
+          "Result": "\"<a href=\"https://duckduckgo.com/?q=Sunrise%2FThe%20Trees\">Sunrise/The Trees</a>\" A double A-side single by British rock band Pulp, from their 2001 album We Love Life.",
+          "Text": "\"Sunrise/The Trees \" A double A-side single by British rock band Pulp, from their 2001 album We Love Life."
+        }
+      ]
+    },
+    {
+      "Name": "People",
+      "Topics": [
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_Rollins",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_Rollins\">Tree Rollins</a>An American retired professional basketball player who played 18 seasons in the National...",
+          "Text": "Tree Rollins An American retired professional basketball player who played 18 seasons in the National..."
+        }
+      ]
+    },
+    {
+      "Name": "Other uses",
+      "Topics": [
+        {
+          "FirstURL": "https://duckduckgo.com/Wood_(Wu_Xing)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Wood_(Wu_Xing)\">Tree (Wu Xing)</a>The growing of the matter, or the matter's growing stage. Wood is the first phase of Wu Xing.",
+          "Text": "Tree (Wu Xing) The growing of the matter, or the matter's growing stage. Wood is the first phase of Wu Xing."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_River",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_River\">Tree River</a> A river in Nunavut, Canada. It flows into Coronation Gulf, an arm of the Arctic Ocean.",
+          "Text": "Tree River A river in Nunavut, Canada. It flows into Coronation Gulf, an arm of the Arctic Ocean."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Stanford_Tree",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/1f5166d1.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Stanford_Tree\">Stanford Tree</a>The Stanford Band's mascot and the unofficial mascot of Stanford University.",
+          "Text": "Stanford Tree The Stanford Band's mascot and the unofficial mascot of Stanford University."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Trees_Dallas",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/17639fe5.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Trees_Dallas\">Trees Dallas</a> An American live music venue opened in 1990 in the Deep Ellum district of downtown Dallas, Texas.",
+          "Text": "Trees Dallas An American live music venue opened in 1990 in the Deep Ellum district of downtown Dallas, Texas."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Tree_(installation)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Tree_(installation)\">Tree (installation)</a>A controversial high inflatable sculpture by the artist Paul McCarthy that was briefly installed...",
+          "Text": "Tree (installation) A controversial high inflatable sculpture by the artist Paul McCarthy that was briefly installed..."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/Binomial_options_pricing_model",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/5a5c1971.png",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Binomial_options_pricing_model\">Binomial</a>In finance, the binomial options pricing model provides a generalizable numerical method for the...",
+          "Text": "Binomial In finance, the binomial options pricing model provides a generalizable numerical method for the..."
+        }
+      ]
+    },
+    {
+      "Name": "See also",
+      "Topics": [
+        {
+          "FirstURL": "https://duckduckgo.com/Treeing",
+          "Icon": {
+            "Height": "",
+            "URL": "https://duckduckgo.com/i/3c5b241b.jpg",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/Treeing\">Treeing</a>A method of hunting where dogs are used to force animals that naturally climb up into trees...",
+          "Text": "Treeing A method of hunting where dogs are used to force animals that naturally climb up into trees..."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/d/Tree_(surname)",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/d/Tree_(surname)\">Tree (surname) Meanings</a>  See related meanings for the phrase 'Tree (surname)'.",
+          "Text": "Tree (surname) Meanings See related meanings for the phrase 'Tree (surname)'."
+        },
+        {
+          "FirstURL": "https://duckduckgo.com/d/Tre",
+          "Icon": {
+            "Height": "",
+            "URL": "",
+            "Width": ""
+          },
+          "Result": "<a href=\"https://duckduckgo.com/d/Tre\">Tre Meanings</a>  See related meanings for the word 'Tre'.",
+          "Text": "Tre Meanings See related meanings for the word 'Tre'."
+        }
+      ]
+    }
+  ],
+  "Results": [],
+  "Type": "D",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}

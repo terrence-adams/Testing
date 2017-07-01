@@ -1,0 +1,17 @@
+[
+  {
+    "data_type": "string",
+    "label": "article_title",
+    "value": "Wookiee"
+  },
+  {
+    "data_type": "string",
+    "label": "template_name",
+    "value": "infobox fictional race"
+  },
+  {
+    "data_type": "string",
+    "label": "caption",
+    "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+  }
+]

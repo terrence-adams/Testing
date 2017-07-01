@@ -1,0 +1,2431 @@
+{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}{
+  "Abstract": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractSource": "Wikipedia",
+  "AbstractText": "Wookiees are a fictional species of intelligent bipeds from the planet Kashyyyk in the Star Wars universe. They first appeared in the 1977 film Star Wars Episode IV: A New Hope. The most notable Wookiee is Chewbacca, a companion of Han Solo.",
+  "AbstractURL": "https://en.wikipedia.org/wiki/Wookiee",
+  "Answer": "",
+  "AnswerType": "",
+  "Definition": "",
+  "DefinitionSource": "",
+  "DefinitionURL": "",
+  "Entity": "fictional race",
+  "Heading": "Wookiee",
+  "Image": "",
+  "ImageHeight": 0,
+  "ImageIsLogo": 0,
+  "ImageWidth": 0,
+  "Infobox": {
+    "content": [
+      {
+        "data_type": "string",
+        "label": "Home world",
+        "value": "Kashyyyk",
+        "wiki_order": 0
+      },
+      {
+        "data_type": "string",
+        "label": "Language",
+        "value": "Shyriiwook, Xaczik",
+        "wiki_order": 1
+      },
+      {
+        "data_type": "string",
+        "label": "Distinctions",
+        "value": "Brown, white, or black fur",
+        "wiki_order": 2
+      },
+      {
+        "data_type": "string",
+        "label": "Races",
+        "value": "Rwook",
+        "wiki_order": 3
+      }
+    ],
+    "meta": [
+      {
+        "data_type": "string",
+        "label": "article_title",
+        "value": "Wookiee"
+      },
+      {
+        "data_type": "string",
+        "label": "template_name",
+        "value": "infobox fictional race"
+      },
+      {
+        "data_type": "string",
+        "label": "caption",
+        "value": "The Wookiee Chewbacca in, Star Wars Episode IV: A New Hope (1977)"
+      }
+    ]
+  },
+  "Redirect": "",
+  "RelatedTopics": [
+    {
+      "FirstURL": "https://duckduckgo.com/c/Star_Wars_species",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Star_Wars_species\">Star Wars species</a>",
+      "Text": "Star Wars species"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_warrior_races",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_warrior_races\">Fictional warrior races</a>",
+      "Text": "Fictional warrior races"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_slaves",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_slaves\">Fictional slaves</a>",
+      "Text": "Fictional slaves"
+    },
+    {
+      "FirstURL": "https://duckduckgo.com/c/Fictional_carnivorans",
+      "Icon": {
+        "Height": "",
+        "URL": "",
+        "Width": ""
+      },
+      "Result": "<a href=\"https://duckduckgo.com/c/Fictional_carnivorans\">Fictional carnivorans</a>",
+      "Text": "Fictional carnivorans"
+    }
+  ],
+  "Results": [],
+  "Type": "A",
+  "meta": {
+    "attribution": null,
+    "blockgroup": null,
+    "created_date": null,
+    "description": "Wikipedia",
+    "designer": null,
+    "dev_date": null,
+    "dev_milestone": "live",
+    "developer": [
+      {
+        "name": "DDG Team",
+        "type": "ddg",
+        "url": "http://www.duckduckhack.com"
+      }
+    ],
+    "example_query": "nikola tesla",
+    "id": "wikipedia_fathead",
+    "is_stackexchange": null,
+    "js_callback_name": "wikipedia",
+    "live_date": null,
+    "maintainer": {
+      "github": "duckduckgo"
+    },
+    "name": "Wikipedia",
+    "perl_module": "DDG::Fathead::Wikipedia",
+    "producer": null,
+    "production_state": "online",
+    "repo": "fathead",
+    "signal_from": "wikipedia_fathead",
+    "src_domain": "en.wikipedia.org",
+    "src_id": 1,
+    "src_name": "Wikipedia",
+    "src_options": {
+      "directory": "",
+      "is_fanon": 0,
+      "is_mediawiki": 1,
+      "is_wikipedia": 1,
+      "language": "en",
+      "min_abstract_length": "20",
+      "skip_abstract": 0,
+      "skip_abstract_paren": 0,
+      "skip_end": "0",
+      "skip_icon": 0,
+      "skip_image_name": 0,
+      "skip_qr": "",
+      "source_skip": "",
+      "src_info": ""
+    },
+    "src_url": null,
+    "status": "live",
+    "tab": "About",
+    "topic": [
+      "productivity"
+    ],
+    "unsafe": 0
+  }
+}
