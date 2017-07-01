@@ -1,0 +1,78 @@
+OS Information: 
+Linux
+OS Information: 
+FrankenSteinSandBox
+OS Information: 
+4.8.0-58-generic
+OS Information: 
+#63~16.04.1-Ubuntu SMP Mon Jun 26 18:08:51 UTC 2017
+OS Information: 
+x86_64
+
+Environment Variables:
+INSTANCE : 
+GTK2_MODULES : overlay-scrollbar
+IM_CONFIG_PHASE : 1
+GDM_LANG : en_US
+JOB : unity-settings-daemon
+MANDATORY_PATH : /usr/share/gconf/ubuntu.mandatory.path
+PATH : /home/adam0954/.local/share/umake/bin:/home/adam0954/bin:/home/adam0954/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+QT4_IM_MODULE : xim
+LANG : en_US.UTF-8
+HOME : /home/adam0954
+PYTHONUNBUFFERED : 1
+LIBGL_ALWAYS_SOFTWARE : 1
+XDG_SESSION_DESKTOP : ubuntu
+XDG_SEAT_PATH : /org/freedesktop/DisplayManager/Seat0
+XDG_SESSION_TYPE : x11
+SHLVL : 0
+PYCHARM_HOSTED : 1
+QT_ACCESSIBILITY : 1
+DISPLAY : :0
+QT_IM_MODULE : ibus
+XDG_CURRENT_DESKTOP : Unity
+DEFAULTS_PATH : /usr/share/gconf/ubuntu.default.path
+PWD : /home/adam0954/Projects/qa-automation/SandboxDev
+SSH_AUTH_SOCK : /run/user/1000/keyring/ssh
+LD_LIBRARY_PATH : /home/adam0954/.local/share/umake/ide/pycharm-professional/bin:
+LANGUAGE : en_US
+UPSTART_SESSION : unix:abstract=/com/ubuntu/upstart-session/1000/1271
+SESSIONTYPE : gnome-session
+DESKTOP_SESSION : ubuntu
+UPSTART_INSTANCE : 
+CLUTTER_IM_MODULE : xim
+XDG_RUNTIME_DIR : /run/user/1000
+XFILESEARCHPATH : /usr/dt/app-defaults/%L/Dt
+XDG_CONFIG_DIRS : /etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg
+GDMSESSION : ubuntu
+COMPIZ_BIN_PATH : /usr/bin/
+XDG_SEAT : seat0
+GTK_MODULES : gail:atk-bridge:unity-gtk-module
+XDG_DATA_DIRS : /usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+GPG_AGENT_INFO : /home/adam0954/.gnupg/S.gpg-agent:0:1
+UPSTART_JOB : unity7
+PYTHONPATH : /home/adam0954/Projects
+LOGNAME : adam0954
+XDG_SESSION_PATH : /org/freedesktop/DisplayManager/Session0
+XDG_MENU_PREFIX : gnome-
+SESSION : ubuntu
+GTK_IM_MODULE : ibus
+PYTHONIOENCODING : UTF-8
+GNOME_DESKTOP_SESSION_ID : this-is-deprecated
+COMPIZ_CONFIG_PROFILE : ubuntu-lowgfx
+GNOME_KEYRING_CONTROL : 
+XDG_VTNR : 7
+XDG_GREETER_DATA_DIR : /var/lib/lightdm-data/adam0954
+QT_LINUX_ACCESSIBILITY_ALWAYS_ON : 1
+GIO_LAUNCHED_DESKTOP_FILE : /home/adam0954/.local/share/applications/jetbrains-pycharm.desktop
+USER : adam0954
+UPSTART_EVENTS : xsession started
+XMODIFIERS : @im=ibus
+XDG_SESSION_ID : c2
+QT_QPA_PLATFORMTHEME : appmenu-qt5
+DBUS_SESSION_BUS_ADDRESS : unix:abstract=/tmp/dbus-k2xRqXgjQf
+SHELL : /bin/bash
+GIO_LAUNCHED_DESKTOP_FILE_PID : 2410
+XAUTHORITY : /home/adam0954/.Xauthority
+GNOME_KEYRING_PID : 
+NLSPATH : /usr/dt/lib/nls/msg/%L/%N.cat
