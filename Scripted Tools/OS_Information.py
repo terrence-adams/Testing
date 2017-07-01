@@ -5,7 +5,6 @@ from pathlib import Path
 from os import path
 import shutil
 
-#Clean up your code and make the necessary functions
 
 
 
