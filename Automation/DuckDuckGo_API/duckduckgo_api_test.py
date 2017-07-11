@@ -28,7 +28,7 @@ def duckduckgo_search():
     #print to screen to verify correct url configuration
     #print(duck_url+ searh_term + format)
 
-    jsonData = json.loads(my_request.text) #converts requeest to text to parse
+    jsonData = json.loads(my_request.text) #converts request to text to parse
 
     with open(searh_term + '.txt', 'a') as search_file:
         json.dump(jsonData,search_file,sort_keys=True, indent=2)
@@ -59,12 +59,12 @@ def duckduckgo_new_search(new_term):
         try:
             searh_term = new_term
 
-            my_request = requests.get(duck_url + searh_term + format + prettify)
+            my_response = requests.get(duck_url + searh_term + format + prettify)
 
             # print to screen to verify correct url configuration
             #print(duck_url + searh_term + format)
 
-            jsonData = json.loads(my_request.text)  #
+            jsonData = json.loads(my_response.text)  #
 
             with open(new_term + '.txt', 'w+') as search_file:
                 json.dump(jsonData, search_file, sort_keys=True, indent=2)
